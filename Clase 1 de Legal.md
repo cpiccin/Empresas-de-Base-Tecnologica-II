@@ -28,3 +28,4 @@ En el habla cotidiana se usa como sinónimo de sociedad, pero jurídicamente:
 
 Sociedad = el sujeto de derecho.
 Empresa = la actividad/organización. Para muchos autores queda contenida dentro del objeto social que se define en el contrato social ("venta de indumentaria deportiva al por mayor", "procesamiento de pagos", etc.).
+
