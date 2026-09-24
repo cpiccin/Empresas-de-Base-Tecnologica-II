@@ -50,4 +50,30 @@ A tener en cuenta para este tipo de contrato:
 * Quien absorve impuestos, si es exclusivo o no, condiciones de auditoria y compliance, soporte y capacitacion a quien vende, cual es la obligacion del resultado
 
 ## Contrato de Agencia
-Es el acuerdo donde una parte (el Proponente o dueño del software) le encarga a otra (el Agente, que puede ser una persona humana o juridica) promover y gestionar negocios por su cuenta y orden, a cambio de una retribución (comisión).
+Es el acuerdo donde una parte (el dueño) le encarga a otra (el Agente, humana o juridica) promover y gestionar negocios por su cuenta y orden, a cambio de una comisión.
+
+NO es una relación societaria, ni de relacion de dependencia.
+
+En el contrato de agencia se debe brindar los medios normales de marketing para que el agente pueda promocionar y comercializar.
+
+Mientras que el **Agente** (que solo acerca al cliente y cobra comisión), el **Distribuidor** compra las licencias a la fábrica y luego las revende a nombre y riesgo propio, ganando un margen sobre el precio.
+
+## EULA
+Acuerdo celebrado entre la software factory y el usuario final.
+
+El EULA siempre tiene que incluir el SITE ID y el Serial n° (sin esto carece de validez para cualquier reclamo a fábrica).
+
+En el EULA se incluye todas las políticas de buen uso de la licencia y todas las cuestiones prohibidas.
+
+Con la descarga del link de las licencias, se entiende el EULA por aceptado, no se puede alegar desconocimiento.
+
+## Clausulas Particulares
+* **Cesión de derechos**: Se puede realizar una cesión de derechos (una empresa compra la operatoria de otra y y necesita heredar sus contratos, licencias de software o acuerdos con proveedores para no detener el negocio.) Es importante establecer una cláusula que ambas partes deben aceptar la cesión. No se puede simplemente “pasar”
+la licencia. 
+* **Jurisdicción:** si se tiene que discutir judicialmente, la jurisdicción estará especificada.
+* **Clausula limitación de responsabilidad**: establecer hasta donde llega la responsabilidad de uno en el contrato.
+* **Clausula de cierre**: todas las negociaciones e intercambios previos al acuerdo forman parte del mismo, con lo cual, es importante establecer una cláusula que este es el único acuerdo entre las partes. O sea que todo lo previo al contrato se descarta.
+* **Cláusula de no renuncia/divisibilidad contractual**: si una parte específica del contrato se anula por abusiva, se deja de cumplir de mutuo acuerdo, o una de las partes renuncia, el resto del contrato sigue vivo y vigente, en lugar de caerse por completo.
+* **Cláusula de supervivencia**: Determinar que sucede con las cuestiones que pueden exceder al plazo del contrato.
+
+> Siempre tener todo por escrito, “las palabras se las lleva el viento” cada vez que acuerden algo en el marco de un proyecto, envíenlo por mail.
